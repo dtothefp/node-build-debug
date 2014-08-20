@@ -1,8 +1,19 @@
   {
     "name": "build-debug",
     "description": "A node-inspector debugger script for build tasks",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "David Fox-Powell (@dtothefp)",
+    "homepage": "https://github.com/dtothefp/grunt-gulp-debug-cli",
+    "keywords": [
+        "debug",
+        "debugger",
+        "inspector",
+        "profiler"
+    ],
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/dtothefp/grunt-gulp-debug-cli"
+    },
     "engines": {
         "node": ">= 0.4.0"
     },
