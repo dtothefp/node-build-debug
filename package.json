@@ -1,0 +1,15 @@
+  {
+    "name": "build-debug",
+    "description": "A node-inspector debugger script for build tasks",
+    "version": "0.0.1",
+    "author": "David Fox-Powell (@dtothefp)",
+    "engines": {
+        "node": ">= 0.4.0"
+    },
+    "dependencies": {
+        "shelljs": "^0.3.0"
+    },
+    "bin": {
+        "build-debug": "./bin/build-debug.js"
+    }
+  }
