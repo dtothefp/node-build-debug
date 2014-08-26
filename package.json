@@ -1,7 +1,7 @@
   {
     "name": "build-debug",
     "description": "A node-inspector debugger script for build tasks",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "author": "David Fox-Powell (@dtothefp)",
     "homepage": "https://github.com/dtothefp/node-build-debug",
     "keywords": [
